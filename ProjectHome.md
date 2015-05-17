@@ -1,0 +1,1 @@
+This Project has NetBeans IDE code for witnessing PC remote control by Android phone. NetBeans IDE 7.1 version has to be installed. Download the project on PC and open the project using NetBeans IDE 7.1.
